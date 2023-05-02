@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "projectName": {
-            "value": ""
-          },
-          "repositoryToken": {
-            "value": ""
-          },
-          "repositoryUrl": {
-            "value": ""
-          }
+            "value": "bpa@123"
+        },
+        "repositoryToken": {
+            "value": "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"
+        },
+        "repositoryUrl": {
+            "value": "https://github.com/Pravinprabhakarsatpute/business-process-automation"
+        }
     }
 }
